@@ -11,4 +11,3 @@ TP1 Kafka - Producer & Consumer JSON
 8) Verifier que `events-json` existe et que des messages sont visibles.
 9) Le consumer affiche les messages JSON recus dans la console.
 10) Group id utilise: `tp1-consumer`.
-11) Capture Kafka UI disponible dans le dossier du TP
